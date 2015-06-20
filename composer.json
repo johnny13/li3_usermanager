@@ -1,5 +1,5 @@
 {
-    "name": "djordje/li3_usermanager",
+    "name": "johnny13/li3_usermanager",
     "type": "lithium-library",
     "description": "User management for Lithium PHP framework",
     "keywords": ["php", "user", "manage", "lithium", "li3"],
@@ -8,15 +8,15 @@
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Djordje Kovacevic",
-            "homepage": "http://djordjekovacevic.com"
+            "name": "Johnny Fortune",
+            "homepage": "http://huement.com"
         }
     ],
     "require": {
         "php": ">=5.3",
         "composer/installers": "dev-master",
         "michaelhue/li3_gravatar": "dev-master",
-        "jails/li3_access": "dev-php-5.3",
+        "jails/li3_access": "dev-master",
         "djordje/li3_backend": "dev-master",
         "djordje/li3_validators": "dev-master",
         "djordje/li3_swiftmailer": "dev-master",
